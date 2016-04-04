@@ -1,0 +1,2 @@
+This is test cookbook file copied by cookbook_file resource.
+Hello again.

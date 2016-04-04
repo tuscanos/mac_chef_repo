@@ -1,0 +1,5 @@
+default[:test_cookbook][:dir] = "/home/shonal/test_cookbook"
+default[:test_cookbook][:file] = "/home/shonal/test_cookbook/test_file1.txt"
+default[:test_cookbook][:cookbook_file] = "/home/shonal/test_cookbook/cookbook_file.txt"
+default[:test_cookbook][:template_file] = "/home/shonal/test_cookbook/template_file.erb"
+default[:test_cookbook][:template_file_source] = "test_cookbook_template.erb"
